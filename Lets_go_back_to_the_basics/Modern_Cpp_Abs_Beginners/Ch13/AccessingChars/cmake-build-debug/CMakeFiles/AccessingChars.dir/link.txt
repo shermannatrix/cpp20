@@ -1,0 +1,3 @@
+D:\Jetbrains\apps\CLion\ch-0\202.6948.80\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\AccessingChars.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\AccessingChars.dir/objects.a @CMakeFiles\AccessingChars.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\AccessingChars.dir/objects.a -Wl,--no-whole-archive  -o AccessingChars.exe -Wl,--out-implib,libAccessingChars.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AccessingChars.dir\linklibs.rsp

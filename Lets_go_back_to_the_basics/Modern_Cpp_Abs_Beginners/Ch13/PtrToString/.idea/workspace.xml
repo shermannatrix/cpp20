@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="PtrToString" targetName="PtrToString" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6a0ddbd-e15c-41e8-96dc-8b741b94afd5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Ch04/HelloWorld/.idea/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch04/MultiStrLiterals/.idea/MultiStrLiterals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/.idea/CharVar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CharVar.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CharVar.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CharVar.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CharVar.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CharVar.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CharVar.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CharVar.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CharVar.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CharVar.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CharVar.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CharVar.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CharVar.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/CharVar.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CharVar.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/CharVar.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/CharVar/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/FloatingPoints/.idea/FloatingPoints.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/IntegerTypes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/IntegerTypes/.idea/IntegerTypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/IntegerTypes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/IntegerTypes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/IntegerTypes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch05/TypeModifiers/.idea/TypeModifiers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch06/Initialization/.idea/Initialization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch07/BasicArithmetics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch07/BasicArithmetics/.idea/BasicArithmetics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch07/BasicArithmetics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch07/BasicArithmetics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch07/BasicArithmetics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch07/CompoundAssignments/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch07/CompoundAssignments/.idea/CompoundAssignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch07/CompoundAssignments/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch07/CompoundAssignments/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch07/CompoundAssignments/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch07/IncreDecrementOp/.idea/IncreDecrementOp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch08/EnterNum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch08/EnterNum/.idea/EnterNum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch08/EnterNum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch08/EnterNum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch08/EnterNum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch09/IntegralFPDiv/.idea/IntegralFPDiv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch09/SumTwoNums/.idea/SumTwoNums.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ch11/DereferencedPtr/.idea/DereferencedPtr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessingChars/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessingChars/.idea/AccessingChars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessingChars/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessingChars/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessingChars/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/ComparingStrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concatenation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concatenation/.idea/Concatenation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concatenation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concatenation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concatenation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringInput/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringInput/.idea/StringInput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringInput/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringInput/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringInput/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringsBasics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringsBasics/.idea/StringsBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringsBasics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringsBasics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringsBasics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringsBasics/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="2pe97wtn" />
+  </component>
+  <component name="ProjectId" id="1gyRHiOiprSkwSdTtiNc92rfFOh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PtrToString" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PtrToString" TARGET_NAME="PtrToString" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PtrToString" RUN_TARGET_NAME="PtrToString">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6a0ddbd-e15c-41e8-96dc-8b741b94afd5" name="Default Changelist" comment="" />
+      <created>1599084759526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599084759526</updated>
+      <workItem from="1599084760741" duration="91000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1865" height="269" key="GridCell.Tab.0.bottom" timestamp="1599084851742">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1865" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599084851742" />
+    <state width="1865" height="269" key="GridCell.Tab.0.center" timestamp="1599084851742">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1865" height="269" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599084851742" />
+    <state width="1865" height="269" key="GridCell.Tab.0.left" timestamp="1599084851741">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1865" height="269" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599084851741" />
+    <state width="1865" height="269" key="GridCell.Tab.0.right" timestamp="1599084851742">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1865" height="269" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599084851742" />
+  </component>
+</project>

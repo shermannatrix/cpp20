@@ -1,0 +1,3 @@
+D:\Jetbrains\apps\CLion\ch-0\202.6948.80\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\IfStatement.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\IfStatement.dir/objects.a @CMakeFiles\IfStatement.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\IfStatement.dir/objects.a -Wl,--no-whole-archive  -o IfStatement.exe -Wl,--out-implib,libIfStatement.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\IfStatement.dir\linklibs.rsp
